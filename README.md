@@ -1,4 +1,4 @@
-# kiwi-split
+# Kiwi 36 Split
 The kiwi split is the perfect split keyboard for beginners, while also being packed full of features such as USB-C interconnect, battery support and nice!view support. 
 
 ## Features
@@ -29,6 +29,7 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Keycaps                       | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
 | Mill-Max Pins                 | 48      |                                                                                             |
 | Mill-Max Socket (12 Pin)      | 2       |                                                                                             |
+| Tactile Button (6mm x 3mm x 4.3mm)    ;  | 2       |                                                                                             |
 
 ### Optional
 
@@ -39,6 +40,10 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | 5 Pin Headers                 | 2       |                                                                                             |
 | Display                       | 2       | Nice!View or .91 OLED Display                                                               |
 | 5 Pin Headers                 | 2       |                                                                                             |
+
+## Build Guide
+
+## Firmware
 
 ## Pictures
 
