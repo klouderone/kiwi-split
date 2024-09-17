@@ -19,7 +19,7 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | PCB                           | 1 set   |                                                                                             |
 | Case                          | 1 set   |                                                                                             |
 | Switch plate                  | 1 set   | FR4 1.6mm thick                                                                             |
-| Microcontroller               | 2       | ATmega32u4 Pro Micro, RP2040 Pro Micro, Nice!Nano V2, Supermini NRF52840 (Must be Pro Micro Footprint)                                                                            |
+| Microcontroller               | 2       | ATmega32u4 (wired), RP2040 (wired), Nice!Nano V2 (wireless), Supermini NRF52840 (wireless)  |
 | Key switches                  | 36      | Cherry MX or Choc V1 or Gateron Low Profile                                                 |
 | Keycaps                       | 36      | 1u 40 pcs, 1.5u 2 pcs                                                                       |
 | Hotswap Sockets               | 36      | Cherry MX or Choc V1 or Gateron Low Profile sockets                                         |
