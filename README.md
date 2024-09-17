@@ -29,7 +29,7 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Keycaps                       | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
 | Mill-Max Pins                 | 48      |                                                                                             |
 | Mill-Max Socket (12 Pin)      | 2       |                                                                                             |
-| Tactile Button (6mm x 3mm x 4.3mm)    ;  | 2       |                                                                                             |
+| Tactile Button (6mm x 3mm x 4.3mm) | 2       |                                                                                             |
 
 ### Optional
 
