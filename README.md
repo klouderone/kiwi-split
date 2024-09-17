@@ -1,7 +1,46 @@
 # kiwi-split
-A 36 Key Split Keyboard designed for absolute beginners in the ergonomic split keyboard world
+The kiwi split is the perfect split keyboard for beginners, while also being packed full of features such as USB-C interconnect, battery support and nice!view support. 
 
-**Pictures**
+## Features
+- USB-C interconnect for wired builds
+- Both connector and solder pads for battery leads, with an included hole for bigger batteries under the PCB
+- Hotswap MX, Hotswap Choc V1 and Hotswap Gateron Low Profile switch support
+- Both Leaded and Surface Mount Diode Support for both beginner and advanced builders
+- Inbuilt Nice!View display support
+
+## Bill Of Materials
+
+These can all be sourced from www.keaworkshop.com, or can be sourced yourself. 
+
+### Required
+
+| Name                          | Count   | Remarks                                                                                     |
+|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
+| PCB                           | 1 set   |                                                                                             |
+| Case                          | 1 set   |                                                                                             |
+| Switch plate                  | 1 set   | FR4 1.6mm thick                                                                             |
+| Microcontroller               | 2       | ATmega32u4 Pro Micro, RP2040 Pro Micro, Nice!Nano V2, Supermini NRF52840 (Must be Pro Micro Footprint)                                                                            |
+| Key switches                  | 36      | Cherry MX or Choc V1 or Gateron Low Profile                                                 |
+| Keycaps                       | 36      | 1u 40 pcs, 1.5u 2 pcs                                                                       |
+| Hotswap Sockets               | 36      | Cherry MX or Choc V1 or Gateron Low Profile sockets                                         |
+| USB C Daughter Board          | 2       | https://www.aliexpress.com/item/1005005187678366.html                                       |
+| Type-C cable                  | 1       |                                                                                             |
+| Diodes                        | 36      | SOD-123 or 1N4148 Leaded Diodes                                                             |
+| Keycaps                       | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
+| Mill-Max Pins                 | 48      |                                                                                             |
+| Mill-Max Socket (12 Pin)      | 2       |                                                                                             |
+
+### Optional
+
+| Name                          | Count   | Remarks                                                                                     |
+|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
+| PCB                           | 2       | www.aliexpress.com/item/1005006027334406.html                                               |
+| Display                       | 2       | Nice!View or .91 OLED Display                                                               |
+| 5 Pin Headers                 | 2       |                                                                                             |
+| Display                       | 2       | Nice!View or .91 OLED Display                                                               |
+| 5 Pin Headers                 | 2       |                                                                                             |
+
+## Pictures
 
 PCBs
 ![image](https://github.com/user-attachments/assets/42b4ee55-afd8-48ba-817e-26e9f39e5572)
