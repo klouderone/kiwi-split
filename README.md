@@ -40,9 +40,9 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
 | PCB                           | 2       | www.aliexpress.com/item/1005006027334406.html                                               |
 | Display                       | 2       | Nice!View (wireless) or .91 OLED Display (wireless or wired)                                                               |
-| 5 Pin Headers                 | 2       |                                                                                             |
-| Display                       | 2       | Nice!View or .91 OLED Display                                                               |
-| 5 Pin Headers                 | 2       |                                                                                             |
+| 4 Pin Headers                 | 2       |                                                                                             |
+|                        | 2       | Nice!View or .91 OLED Display                                                               |
+|          | 2       |                                                                                             |
 
 ## IMPORTANT
 
