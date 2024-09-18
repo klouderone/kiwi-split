@@ -44,7 +44,7 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Display                       | 2       | Nice!View or .91 OLED Display                                                               |
 | 5 Pin Headers                 | 2       |                                                                                             |
 
-# IMPORTANT
+## IMPORTANT
 
 **ALWAYS make sure that you DO NOT plug the USB-C interconnect cable into the host device (Computer, Laptop, iPad)**. This **WILL** result in the microcontroller being broken, and needing to be replaced.
 I plan to design some protection against this, though i need to figure out how to do this with parts that are not surface mounted, and can be soldered by the consumer.
