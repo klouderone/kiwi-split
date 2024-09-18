@@ -1,6 +1,8 @@
 # Kiwi 36 Split
 The kiwi split is the perfect split keyboard for beginners, while also being packed full of features such as USB-C interconnect, battery support and nice!view support. 
 
+Please make sure to read everything before building or using.
+
 ## Features
 - USB-C interconnect for wired builds
 - Both connector and solder pads for battery leads, with an included hole for bigger batteries under the PCB
@@ -30,6 +32,7 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Mill-Max Pins                 | 48      |                                                                                             |
 | Mill-Max Socket (12 Pin)      | 2       |                                                                                             |
 | Tactile Button (6mm x 3mm x 4.3mm) | 2       |                                                                                             |
+| PH2 Battery Connector (right angle) | 2       |                                                                                             |
 
 ### Optional
 
@@ -40,6 +43,11 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | 5 Pin Headers                 | 2       |                                                                                             |
 | Display                       | 2       | Nice!View or .91 OLED Display                                                               |
 | 5 Pin Headers                 | 2       |                                                                                             |
+
+# IMPORTANT
+
+**ALWAYS make sure that you DO NOT plug the USB-C interconnect cable into the host device (Computer, Laptop, iPad)**. This **WILL** result in the microcontroller being broken, and needing to be replaced.
+I plan to design some protection against this, though i need to figure out how to do this with parts that are not surface mounted, and can be soldered by the consumer.
 
 ## Build Guide
 
