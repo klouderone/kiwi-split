@@ -1,14 +1,16 @@
 # Kiwi 36 Split
 The kiwi split is the perfect split keyboard for beginners, while also being packed full of features such as USB-C interconnect, battery support and nice!view support. 
+The kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes. 
 
 Please make sure to read everything before building or using.
 
 ## Features
-- USB-C interconnect for wired builds
-- Both connector and solder pads for battery leads, with an included hole for bigger batteries under the PCB
-- Hotswap MX, Hotswap Choc V1 and Hotswap Gateron Low Profile switch support
-- Both Leaded and Surface Mount Diode Support for both beginner and advanced builders
+- **USB-C** interconnect for wired builds
+- Hotswap **MX**, Hotswap **Choc V1** and Hotswap **Gateron Low Profile** switch support
+- Both **Leaded and Surface Mount Diode Support** for both beginner and advanced builders
+- Inbuilt battery switch 
 - Inbuilt Nice!View display support
+- Both PH2 connector and solder pads for batteries, with an included hole for bigger batteries under the PCB
 
 ## Bill Of Materials
 
