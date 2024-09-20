@@ -8,6 +8,7 @@ Please make sure to read everything before building or using.
 ## Features
 - **USB-C** interconnect for wired builds
 - Hotswap **MX**, Hotswap **Choc V1** and Hotswap **Gateron Low Profile** switch support
+- **MX Spaced** (19.05mm x 19.05mm)
 - Both **Leaded and Surface Mount Diode Support** for both beginner and advanced builders
 - Inbuilt battery switch 
 - Inbuilt Nice!View display support
