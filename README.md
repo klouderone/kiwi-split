@@ -1,6 +1,7 @@
 # Kiwi 36 Split
 The kiwi split is the perfect split keyboard for beginners, while also being packed full of features such as USB-C interconnect, battery support and nice!view support. 
-The kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes. 
+The kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes.
+It is inteneded to be used with home row-mods.
 
 Please make sure to read everything before building or using.
 
