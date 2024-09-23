@@ -13,6 +13,7 @@ Please make sure to read everything before building or using.
 - Inbuilt battery switch 
 - Inbuilt Nice!View display support
 - Both PH2 connector and solder pads for batteries, with an included hole for bigger batteries under the PCB
+- Waffle Pattern PCB
 
 ## Bill Of Materials
 
