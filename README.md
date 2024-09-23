@@ -34,19 +34,19 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Diodes                        | 36      | SOD-123 or 1N4148 Leaded Diodes                                                             |
 | Keycaps                       | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
 | Mill-Max Pins                 | 48      |                                                                                             |
-| Mill-Max Socket (12 Pin)      | 2       |                                                                                             |
+| Mill-Max Socket (12 Pin)      | 4       |                                                                                             |
 | Tactile Button (6mm x 3mm x 4.3mm) | 2       |                                                                                             |
-| PH2 Battery Connector (right angle) | 2       |                                                                                             |
+| PH2 Battery Connector (Right Angle) | 2       |   www.aliexpress.com/item/1005006027334406.html                                               |
+| MSK-12C02 / PCM12SMTR Toggle Switch | 2       |                                            |
 
 ### Optional
 
 | Name                          | Count   | Remarks                                                                                     |
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
-| PCB                           | 2       | www.aliexpress.com/item/1005006027334406.html                                               |
 | Display                       | 2       | Nice!View (wireless) or .91 OLED Display (wireless or wired)                                                               |
-| 4 Pin Headers                 | 2       |                                                                                             |
-|                        | 2       | Nice!View or .91 OLED Display                                                               |
-|          | 2       |                                                                                             |
+| 4 Pin Header                 | 2       |  for .91 OLED Display                                                                                       |
+| 5 Pin Header   | 2 | for Nice!View (usually included with Nice!View)
+| Battery                 | 2       |                                                       |
 
 ## IMPORTANT
 
