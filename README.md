@@ -68,3 +68,6 @@ PCBs
 Schematic
 ![image](https://github.com/user-attachments/assets/f8483d3e-f5d2-4615-abce-0e77aa9b9c7d)
 
+## Releases
+
+V1.1 - 
