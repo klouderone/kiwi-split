@@ -12,6 +12,7 @@ Please make sure to read everything before building or using.
 - Hotswap **MX**, Hotswap **Choc V1** and Hotswap **Gateron Low Profile** switch support
 - **MX Spaced** (19.05mm x 19.05mm)
 - Both **Leaded and Surface Mount Diode Support** for both beginner and advanced builders
+- **Larger pads** for surface mount components
 - Inbuilt battery switch 
 - Inbuilt Nice!View display support
 - Both PH2 connector and solder pads for batteries, with an included hole for bigger batteries under the PCB
