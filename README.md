@@ -1,5 +1,7 @@
-# Kiwi 36 Split
-The kiwi split is the perfect split keyboard for beginners, while also being packed full of features such as USB-C interconnect, battery support and nice!view support. 
+# The Kiwi 36 Split
+The kiwi 36 split is the perfect split keyboard for absolute beginners, while also being packed full of features such as USB-C interconnect, battery support and 3 kinds of switches.
+The kiwi 36 is easy to build, having the option to use mostly through-hole components, and bigger pads for surface mount components. 
+
 The kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes.
 It is inteneded to be used with home row-mods.
 
@@ -24,12 +26,12 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Name                          | Count   | Remarks                                                                                     |
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
 | PCB                           | 1 set   |                                                                                             |
-| Case                          | 1 set   |                                                                                             |
+| Case                          | 1 set   | 3D printable                                                                                            |
 | Switch plate                  | 1 set   | FR4 1.6mm thick                                                                             |
 | Microcontroller               | 2       | ATmega32u4 (wired), RP2040 (wired), Nice!Nano V2 (wireless), Supermini NRF52840 (wireless)  |
 | Key switches                  | 36      | Cherry MX or Choc V1 or Gateron Low Profile                                                 |
 | Keycaps                       | 36      | 1u 40 pcs, 1.5u 2 pcs                                                                       |
-| Hotswap Sockets               | 36      | Cherry MX or Choc V1 or Gateron Low Profile sockets                                         |
+| Hotswap Sockets               | 36      | 36x Cherry MX or Gateron Low Profile and 36x Choc V1.                                     |
 | USB C Daughter Board          | 2       | https://www.aliexpress.com/item/1005005187678366.html                                       |
 | Type-C cable                  | 1       |                                                                                             |
 | Diodes                        | 36      | SOD-123 or 1N4148 Leaded Diodes                                                             |
@@ -37,17 +39,17 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Mill-Max Pins                 | 48      |                                                                                             |
 | Mill-Max Socket (12 Pin)      | 4       |                                                                                             |
 | Tactile Button (6mm x 3mm x 4.3mm) | 2       |                                                                                             |
-| PH2 Battery Connector (Right Angle) | 2       |   www.aliexpress.com/item/1005006027334406.html                                               |
-| MSK-12C02 / PCM12SMTR Toggle Switch | 2       |                                            |
+| PH2 Battery Connector (Right Angle) | 2       |  only needed for wireless builds www.aliexpress.com/item/1005006027334406.html                                               |
+| MSK-12C02 / PCM12SMTR Toggle Switch | 2       |  only needed for wireless builds                                         |
 
 ### Optional
 
 | Name                          | Count   | Remarks                                                                                     |
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
-| Display                       | 2       | Nice!View (wireless) or .91 OLED Display (wireless or wired)                                                               |
+| Display                       | 2       | Nice!View (ZMK only) or .91 OLED Display                                                               |
 | 4 Pin Header                 | 2       |  for .91 OLED Display                                                                                       |
 | 5 Pin Header   | 2 | for Nice!View (usually included with Nice!View)
-| Battery                 | 2       |                                                       |
+| Battery                 | 2       | Leaded or PH2 connector                                                |
 
 ## IMPORTANT
 
