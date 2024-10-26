@@ -1,5 +1,5 @@
 # The Kiwi 36 Split
-The kiwi 36 split is the perfect split keyboard for absolute beginners, while also being packed full of features such as USB-C interconnect, battery support and 3 kinds of switches.
+The Kiwi 36 split is the perfect split keyboard for absolute beginners, while also being packed full of features such as USB-C interconnect, battery support and 3 kinds of switches.
 The kiwi 36 is easy to build, having the option to use mostly through-hole components, and bigger pads for surface mount components. 
 
 The kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes.
@@ -8,14 +8,15 @@ It is inteneded to be used with home row-mods.
 Please make sure to read everything before building or using.
 
 ## Features
+- Fully supported **Wired and Wireless** configurations
 - **USB-C** interconnect for wired builds
+- Inbuilt **Battery Switch and Battery Connector** for wireless builts
 - Hotswap **MX**, Hotswap **Choc V1** and Hotswap **Gateron Low Profile** switch support
+- **Leaded and Surface Mount Diode Support** for both beginner and advanced builders
+- **Larger pads** for surface mount components for easier soldering
 - **MX Spaced** (19.05mm x 19.05mm)
-- Both **Leaded and Surface Mount Diode Support** for both beginner and advanced builders
-- **Larger pads** for surface mount components
-- Inbuilt battery switch 
-- Inbuilt Nice!View display support
-- Both PH2 connector and solder pads for batteries, with an included hole for bigger batteries under the PCB
+- Inbuilt **Nice!View display support**
+- Included hole for bigger batteries under the PCB
 - Waffle Pattern PCB
 
 ## Bill Of Materials
