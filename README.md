@@ -1,4 +1,7 @@
 # The Kiwi 36 Split
+
+![Kiwi36 Full Res Outside](https://github.com/user-attachments/assets/b475ad77-28bf-4060-9990-a74928baabcb)
+
 The Kiwi 36 split is the perfect split keyboard for absolute beginners, while also being packed full of features such as USB-C interconnect, battery support and 3 kinds of switches.
 The kiwi 36 is easy to build, having the option to use mostly through-hole components, and bigger pads for surface mount components. 
 
