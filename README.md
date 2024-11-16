@@ -63,14 +63,14 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 
 ## Cases and Covers
 
-**| Cases                       | Picture | Notes                                                                                       |**
+| Cases                       | Picture | Notes                                                                                       |
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
 | MX Switch Plates              |         | A Switch Plate for MX and Choc Switches                                                     |
 | Choc Switch Plates            |         | A Switch Plate better optimised for Choc Switches                                           |
 | Enclosed Case                 |         | A Case that fully encloses the PCB and Switch Plate                                         |
 | Bottom Plate                  |         | A Bottom Plate that only covers the bottom of the PCB                                       |
 
-**| Covers                      | Picture | Notes                                                                                     |**
+| Covers                      | Picture | Notes                                                                                     |
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
 | No Display Cover              |         | A blank cover used if no displays or trackpads are used                                     |
 | No Display Pattern Cover      |         | A blank cover with a pattern used if no displays or trackpads are used                      |
