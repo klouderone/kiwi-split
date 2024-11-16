@@ -61,6 +61,8 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | 5 Pin Header   | 2 | for Nice!View (usually included with Nice!View)
 | Battery                 | 2       | Leaded or PH2 connector                                                |
 
+## Cases and Covers
+
 ## IMPORTANT
 
 **ALWAYS make sure that you DO NOT plug the USB-C interconnect cable into the host device (Computer, Laptop, iPad)**. This **WILL** result in the microcontroller being broken, and needing to be replaced.
