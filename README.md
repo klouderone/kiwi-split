@@ -63,6 +63,22 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 
 ## Cases and Covers
 
+**| Cases                       | Picture | Notes                                                                                       |**
+|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
+| MX Switch Plates              |         | A Switch Plate for MX and Choc Switches                                                     |
+| Choc Switch Plates            |         | A Switch Plate better optimised for Choc Switches                                           |
+| Enclosed Case                 |         | A Case that fully encloses the PCB and Switch Plate                                         |
+| Bottom Plate                  |         | A Bottom Plate that only covers the bottom of the PCB                                       |
+
+**| Covers                      | Picture | Notes                                                                                     |**
+|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
+| No Display Cover              |         | A blank cover used if no displays or trackpads are used                                     |
+| No Display Pattern Cover      |         | A blank cover with a pattern used if no displays or trackpads are used                      |
+| Nice!View Cover               |         | A cover for use with Nice!Views                                                             |
+| .91 Inch OLED Cover           |         | A cover for use with .91 inch OLEDs                                                         |
+| Cirque 40mm Cover             |         | A cover for use with a Cirque 40mm Trackpad and [Minimal I2C by Keyboard-Magpie](https://github.com/keyboard-magpie/minimal-fpc-i2c-pcb)     |
+
+
 ## IMPORTANT
 
 **ALWAYS make sure that you DO NOT plug the USB-C interconnect cable into the host device (Computer, Laptop, iPad)**. This **WILL** result in the microcontroller being broken, and needing to be replaced.
