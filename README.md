@@ -63,14 +63,18 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 
 ## Cases and Covers
 
-| Cases                       | Picture | Notes                                                                                       |
-|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
-| MX Switch Plates              |         | A Switch Plate for MX and Choc Switches                                                     |
-| Choc Switch Plates            |         | A Switch Plate better optimised for Choc Switches                                           |
-| Enclosed Case                 |         | A Case that fully encloses the PCB and Switch Plate                                         |
-| Bottom Plate                  |         | A Bottom Plate that only covers the bottom of the PCB                                       |
+| Cases                                           | Picture | Notes                                                                                                              |
+|:------------------------------------------------|:--------|:-------------------------------------------------------------------------------------------------------------------|
+| MX Switch Plates                                |         | A Switch Plate for MX and Choc Switches                                                                            |
+| Choc Switch Plates                              |         | A Switch Plate better optimised for Choc Switches                                                                  |
+| MX Enclosed Case (Wired and Wireless)           |         | A Case that fully encloses the PCB and Switch Plate on MX builds with an interconnect cut-out on the wired type    |
+| MX Tenting Enclosed Case (Wired and Wireless)   |         | An enclosed MX case with included folding tenting                                                                  |
+| Choc Enclosed Case (Wired and Wireless)         |         | A Case that fully encloses the PCB and Switch Plate on Choc builds with an interconnect cut-out on the wired type  |
+| Choc Tenting Enclosed Case (Wired and Wireless) |         | An enclosed Choc case with included folding tenting                                                                |
+| Bottom Plate                                    |         | A Bottom Plate that only covers the bottom of the PCB                                                              |
 
-| Covers                      | Picture | Notes                                                                                     |
+
+| Covers                        | Picture | Notes                                                                                     |
 |:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
 | No Display Cover              |         | A blank cover used if no displays or trackpads are used                                     |
 | No Display Pattern Cover      |         | A blank cover with a pattern used if no displays or trackpads are used                      |
