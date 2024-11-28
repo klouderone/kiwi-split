@@ -33,54 +33,53 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 
 ### Required
 
-| Name                          | Count   | Remarks                                                                                     |
-|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
-| PCB                           | 1 set   |                                                                                             |
-| Case                          | 1 set   | 3D printable                                                                                            |
-| Switch plate                  | 1 set   | FR4 1.6mm thick                                                                             |
-| Microcontroller               | 2       | ATmega32u4 (wired), RP2040 (wired), Nice!Nano V2 (wireless), Supermini NRF52840 (wireless)  |
-| Key switches                  | 36      | Cherry MX or Choc V1 or Gateron Low Profile                                                 |
-| Keycaps                       | 36      | 1u 40 pcs, 1.5u 2 pcs                                                                       |
-| Hotswap Sockets               | 36      | 36x Cherry MX or Gateron Low Profile and 36x Choc V1.                                     |
-| USB C Daughter Board          | 2       | https://www.aliexpress.com/item/1005005187678366.html                                       |
-| Type-C cable                  | 1       |                                                                                             |
-| Diodes                        | 36      | SOD-123 or 1N4148 Leaded Diodes                                                             |
-| Keycaps                       | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
-| Mill-Max Pins                 | 48      |                                                                                             |
-| Mill-Max Socket (12 Pin)      | 4       |                                                                                             |
-| Tactile Button (6mm x 3mm x 4.3mm) | 2       |                                                                                             |
-| PH2 Battery Connector (Right Angle) | 2       |  only needed for wireless builds www.aliexpress.com/item/1005006027334406.html                                               |
-| MSK-12C02 / PCM12SMTR Toggle Switch | 2       |  only needed for wireless builds                                         |
+| Name                                  | Count   | Remarks                                                                                     |
+|:--------------------------------------|:--------|:--------------------------------------------------------------------------------------------|
+| PCB                                   | 1 set   |                                                                                             |
+| Case                                  | 1 set   | 3D printable                                                                                |
+| Switch plate                          | 1 set   | FR4 1.6mm thick                                                                             |
+| Microcontroller                       | 2       | ATmega32u4 (wired), RP2040 (wired), Nice!Nano V2 (wireless), Supermini NRF52840 (wireless)  |
+| Key switches                          | 36      | Cherry MX or Choc V1 or Gateron Low Profile                                                 |
+| Keycaps                               | 36      | 1u 40 pcs, 1.5u 2 pcs                                                                       |
+| Hotswap Sockets                       | 36      | 36x Cherry MX or Gateron Low Profile and 36x Choc V1.                                       |
+| USB C Daughter Board                  | 2       | https://www.aliexpress.com/item/1005005187678366.html                                       |
+| Type-C cable                          | 1       |                                                                                             |
+| Diodes                                | 36      | SOD-123 or 1N4148 Leaded Diodes                                                             |
+| Keycaps                               | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
+| Mill-Max Pins                         | 48      |                                                                                             |
+| Mill-Max Socket (12 Pin)              | 4       |                                                                                             |
+| Tactile Button (6mm x 3mm x 4.3mm)    | 2       |                                                                                             |
+| PH2 Battery Connector (Right Angle)   | 2       |  only needed for wireless builds www.aliexpress.com/item/1005006027334406.html              |
+| MSK-12C02 / PCM12SMTR Toggle Switch   | 2       |  only needed for wireless builds                                                            |
 
 ### Optional
 
-| Name                          | Count   | Remarks                                                                                     |
-|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
-| Display                       | 2       | Nice!View (ZMK only) or .91 OLED Display                                                               |
-| 4 Pin Header                 | 2       |  for .91 OLED Display                                                                                       |
-| 5 Pin Header   | 2 | for Nice!View (usually included with Nice!View)
-| Battery                 | 2       | Leaded or PH2 connector                                                |
+| Name                          | Count   | Remarks                                                               |
+|:------------------------------|:--------|:----------------------------------------------------------------------|
+| Display                       | 2       | Nice!View (ZMK only) or .91 OLED Display                              |
+| 4 Pin Header                  | 2       |  for .91 OLED Display                                                 |
+| 5 Pin Header                  | 2       | for Nice!View (usually included with Nice!View)                       |
+| Battery                       | 2       | Leaded or PH2 connector                                               |
 
 ## Cases and Covers
 
-| Cases                                           | Picture | Notes                                                                                                              |
-|:------------------------------------------------|:--------|:-------------------------------------------------------------------------------------------------------------------|
-| MX Switch Plates                                |         | A Switch Plate for MX and Choc Switches                                                                            |
-| Choc Switch Plates                              |         | A Switch Plate better optimised for Choc Switches                                                                  |
-| MX Enclosed Case (Wired and Wireless)           |         | A Case that fully encloses the PCB and Switch Plate on MX builds with an interconnect cut-out on the wired type    |
-| MX Tenting Enclosed Case (Wired and Wireless)   |         | An enclosed MX case with included folding tenting                                                                  |
-| Choc Enclosed Case (Wired and Wireless)         |         | A Case that fully encloses the PCB and Switch Plate on Choc builds with an interconnect cut-out on the wired type  |
-| Choc Tenting Enclosed Case (Wired and Wireless) |         | An enclosed Choc case with included folding tenting                                                                |
-| Bottom Plate                                    |         | A Bottom Plate that only covers the bottom of the PCB                                                              |
+| Case Types                   | Picture | Notes                                                                                                                                             |
+|:-----------------------------|:--------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
+| MX Switch Plates             |         | A Switch Plate for MX and Choc Switches                                                                                                           |
+| Choc Switch Plates           |         | A Switch Plate better optimised for Choc Switches                                                                                                 |
+| Tall  Enclosed Case          |         | A Case 11.1mm tall that fully encloses the PCB and Switch Plate with an interconnect cut-out on the wired type.                                   |
+| Short Enclosed Case          |         | A Case 8.3mm tall that fully encloses the PCB and Switch Plate with an interconnect cut-out on the wired type. Does not work on MX builds         |
+| Tenting Enclosed Case        |         | An Enclosed Case with added Tenting slots for [Folding Tenting Legs](https://www.keaworkshop.com/category/components/product/case-tenting-legs)   |
+| Bottom Plate                 |         | A Bottom Plate that only covers the bottom of the PCB                                                                                             |
 
 
-| Covers                        | Picture | Notes                                                                                     |
-|:------------------------------|:--------|:--------------------------------------------------------------------------------------------|
-| No Display Cover              |         | A blank cover used if no displays or trackpads are used                                     |
-| No Display Pattern Cover      |         | A blank cover with a pattern used if no displays or trackpads are used                      |
-| Nice!View Cover               |         | A cover for use with Nice!Views                                                             |
-| .91 Inch OLED Cover           |         | A cover for use with .91 inch OLEDs                                                         |
-| Cirque 40mm Cover             |         | A cover for use with a Cirque 40mm Trackpad and [Minimal I2C by Keyboard-Magpie](https://github.com/keyboard-magpie/minimal-fpc-i2c-pcb)     |
+| Covers                       | Picture | Notes                                                                                                                                        |
+|:-----------------------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| No Display Cover             |         | A blank cover used if no displays or trackpads are used                                                                                      |
+| No Display Pattern Cover     |         | A blank cover with a pattern used if no displays or trackpads are used                                                                       |
+| Nice!View Cover              |         | A cover for use with Nice!Views                                                                                                              |
+| .91 Inch OLED Cover          |         | A cover for use with .91 inch OLEDs                                                                                                          |
+| Cirque 40mm Cover            |         | A cover for use with a Cirque 40mm Trackpad and [Minimal I2C by Keyboard-Magpie](https://github.com/keyboard-magpie/minimal-fpc-i2c-pcb)     |
 
 
 ## IMPORTANT
