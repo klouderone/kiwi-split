@@ -2,7 +2,6 @@
 
 ![Kiwi36 Full Res Outside Touched Up](https://github.com/user-attachments/assets/b3767477-0a5a-48e6-8ac1-671d68c05dcf)
 
-
 The Kiwi 36 split is the perfect split keyboard for absolute beginners, giving the freedom to use **3 kinds of switches**, while also being packed full of features such as **USB-C interconnect** and **battery support**!
 The Kiwi 36 is easy to build, having the option to use mostly through-hole components, and bigger pads for surface mount components. 
 
@@ -14,6 +13,8 @@ It is inteneded to be used with home row-mods.
 This board was inspired by the [Fifi by Ray Chengy](https://github.com/raychengy/fifi_split_keeb).
 
 Please make sure to read everything before building or using.
+
+## Images
 
 ## Features
 - Fully supported **Wired and Wireless** configurations
