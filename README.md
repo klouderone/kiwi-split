@@ -41,12 +41,11 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Switch plate                          | 1 set   | FR4 1.6mm thick                                                                             |
 | Microcontroller                       | 2       | ATmega32u4 (wired), RP2040 (wired), Nice!Nano V2 (wireless), Supermini NRF52840 (wireless)  |
 | Key switches                          | 36      | Cherry MX or Choc V1 or Gateron Low Profile                                                 |
-| Keycaps                               | 36      | 1u 40 pcs, 1.5u 2 pcs                                                                       |
-| Hotswap Sockets                       | 36      | 36x Cherry MX or Gateron Low Profile and 36x Choc V1.                                       |
-| USB C Daughter Board                  | 2       | https://www.aliexpress.com/item/1005005187678366.html                                       |
+| Keycaps                               | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
+| Hotswap Sockets                       | 36      | 36x Cherry MX OR 36x Gateron Low Profile, and 36x Choc V1.                                  |
+| USB C Daughter Board                  | 2       | only needed for wired builds https://www.aliexpress.com/item/1005005187678366.html          |
 | Type-C cable                          | 1       |                                                                                             |
 | Diodes                                | 36      | SOD-123 or 1N4148 Leaded Diodes                                                             |
-| Keycaps                               | 36      | 1u 34 pcs, 1.5u 2 pcs                                                                       |
 | Mill-Max Pins                         | 48      |                                                                                             |
 | Mill-Max Socket (12 Pin)              | 4       |                                                                                             |
 | Tactile Button (6mm x 3mm x 4.3mm)    | 2       |                                                                                             |
@@ -58,7 +57,7 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Name                          | Count   | Remarks                                                               |
 |:------------------------------|:--------|:----------------------------------------------------------------------|
 | Display                       | 2       | Nice!View (ZMK only) or .91 OLED Display                              |
-| 4 Pin Header                  | 2       |  for .91 OLED Display                                                 |
+| 4 Pin Header                  | 2       | for .91 OLED Display                                                  |
 | 5 Pin Header                  | 2       | for Nice!View (usually included with Nice!View)                       |
 | Battery                       | 2       | Leaded or PH2 connector                                               |
 
