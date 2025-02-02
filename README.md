@@ -1,4 +1,4 @@
-# The Kiwi 36 Split
+# The Kiwi36 Split
 
 ![Kiwi36 Full Res Outside Touched Up](https://github.com/user-attachments/assets/b3767477-0a5a-48e6-8ac1-671d68c05dcf)
 
