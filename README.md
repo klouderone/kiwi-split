@@ -26,9 +26,6 @@ This board was inspired by the [Fifi by Ray Chengy](https://github.com/raychengy
 
 Please make sure to read everything before building or using.
 
-## Images
-
-
 ## Bill Of Materials
 
 These can all be sourced from www.keaworkshop.com, or can be sourced yourself. 
@@ -72,7 +69,6 @@ These can all be sourced from www.keaworkshop.com, or can be sourced yourself.
 | Short Enclosed Case          |         | A Case 8.3mm tall that fully encloses the PCB and Switch Plate with an interconnect cut-out on the wired type. Does not work on MX builds         |
 | Tenting Enclosed Case        |         | An Enclosed Case with added Tenting slots for [Folding Tenting Legs](https://www.keaworkshop.com/category/components/product/case-tenting-legs)   |
 | Bottom Plate                 |         | A Bottom Plate that only covers the bottom of the PCB                                                                                             |
-
 
 | Covers                       | Picture | Notes                                                                                                                                        |
 |:-----------------------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------|
