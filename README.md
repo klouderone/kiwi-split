@@ -5,17 +5,6 @@
 The Kiwi 36 split is the perfect split keyboard for absolute beginners, giving the freedom to use **3 kinds of switches**, while also being packed full of features such as **USB-C interconnect** and **battery support**!
 The Kiwi 36 is easy to build, having the option to use mostly through-hole components, and bigger pads for surface mount components. 
 
-There is a wide range of support for different accessories, including 3D printable Covers for Trackpads, Nice!Views, and OLEDs!
-
-The Kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes.
-It is inteneded to be used with home row-mods.
-
-This board was inspired by the [Fifi by Ray Chengy](https://github.com/raychengy/fifi_split_keeb).
-
-Please make sure to read everything before building or using.
-
-## Images
-
 ## Features
 - Fully supported **Wired and Wireless** configurations
 - **USB-C** interconnect for wired builds
@@ -27,6 +16,18 @@ Please make sure to read everything before building or using.
 - Inbuilt **Nice!View display support**
 - Included hole for bigger batteries under the PCB
 - Waffle Pattern PCB
+
+There is a wide range of support for different accessories, including 3D printable Covers for Trackpads, Nice!Views, and OLEDs!
+
+The Kiwi is a minimalist board, aimed to be as compact as possible, yet very easy to build, with the ability to use either leaded diodes or surface mount diodes.
+It is inteneded to be used with home row-mods.
+
+This board was inspired by the [Fifi by Ray Chengy](https://github.com/raychengy/fifi_split_keeb).
+
+Please make sure to read everything before building or using.
+
+## Images
+
 
 ## Bill Of Materials
 
